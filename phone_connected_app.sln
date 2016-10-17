@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phone_connected_app.CSharp.Plugins", "phone_connected_app.CSharp.Plugins.csproj", "{0C949171-DBFD-99A0-E6B5-B9413877F017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phone_connected_app.CSharp", "phone_connected_app.CSharp.csproj", "{50D6E5DB-1B9D-5E69-654E-D6484C3BEBAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phone_connected_app.CSharp.Editor", "phone_connected_app.CSharp.Editor.csproj", "{200225EF-D9F8-81D6-601D-640B3DC15EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C949171-DBFD-99A0-E6B5-B9413877F017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C949171-DBFD-99A0-E6B5-B9413877F017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C949171-DBFD-99A0-E6B5-B9413877F017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C949171-DBFD-99A0-E6B5-B9413877F017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D6E5DB-1B9D-5E69-654E-D6484C3BEBAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D6E5DB-1B9D-5E69-654E-D6484C3BEBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D6E5DB-1B9D-5E69-654E-D6484C3BEBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D6E5DB-1B9D-5E69-654E-D6484C3BEBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200225EF-D9F8-81D6-601D-640B3DC15EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200225EF-D9F8-81D6-601D-640B3DC15EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200225EF-D9F8-81D6-601D-640B3DC15EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200225EF-D9F8-81D6-601D-640B3DC15EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
